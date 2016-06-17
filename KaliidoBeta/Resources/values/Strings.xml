@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtFindClosestUsersButton">Get Closest Users</string>
+    <string name="ApplicationName">Kaliido</string>
+    <string name="ListUserButtonText">Test</string>
+</resources>

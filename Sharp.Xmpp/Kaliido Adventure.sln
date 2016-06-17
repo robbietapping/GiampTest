@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharp.Xmpp", "Sharp.Xmpp.csproj", "{9EA99E39-8C5C-4F69-9F3F-8E3074C518FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpXmppDemo", "..\SharpXmppDemo\SharpXmppDemo\SharpXmppDemo.csproj", "{8D5BE3AC-346F-465E-B4E2-C5BC4184A82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaliido", "..\KaliidoBeta\Kaliido.csproj", "{A56EFF84-6A90-4C42-8147-0E407D896071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaliidoAPI", "..\KaliidoAPI\KaliidoAPI.csproj", "{67F9D3A8-F71E-4428-913F-C37AE82CDB24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaliidoAPITest", "..\KaliidoAPITest\KaliidoAPITest\KaliidoAPITest.csproj", "{98984744-0D23-4D8C-B228-8C0FC44B1F3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA99E39-8C5C-4F69-9F3F-8E3074C518FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA99E39-8C5C-4F69-9F3F-8E3074C518FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA99E39-8C5C-4F69-9F3F-8E3074C518FA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA99E39-8C5C-4F69-9F3F-8E3074C518FA}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{8D5BE3AC-346F-465E-B4E2-C5BC4184A82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5BE3AC-346F-465E-B4E2-C5BC4184A82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5BE3AC-346F-465E-B4E2-C5BC4184A82B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8D5BE3AC-346F-465E-B4E2-C5BC4184A82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5BE3AC-346F-465E-B4E2-C5BC4184A82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5BE3AC-346F-465E-B4E2-C5BC4184A82B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A56EFF84-6A90-4C42-8147-0E407D896071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56EFF84-6A90-4C42-8147-0E407D896071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56EFF84-6A90-4C42-8147-0E407D896071}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A56EFF84-6A90-4C42-8147-0E407D896071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56EFF84-6A90-4C42-8147-0E407D896071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A56EFF84-6A90-4C42-8147-0E407D896071}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{67F9D3A8-F71E-4428-913F-C37AE82CDB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F9D3A8-F71E-4428-913F-C37AE82CDB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F9D3A8-F71E-4428-913F-C37AE82CDB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F9D3A8-F71E-4428-913F-C37AE82CDB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98984744-0D23-4D8C-B228-8C0FC44B1F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98984744-0D23-4D8C-B228-8C0FC44B1F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98984744-0D23-4D8C-B228-8C0FC44B1F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98984744-0D23-4D8C-B228-8C0FC44B1F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = S22.Xmpp.csproj
+	EndGlobalSection
+EndGlobal
